@@ -1,0 +1,9 @@
+ADR - Architecture Decision Records (Registros de Decisões de Arquitetura)
+
+Ela responde cinco perguntas:
+
+1. Qual era o problema?
+2. Quais opções existiam?
+3. Qual escolhemos?
+4. Por que escolhemos?
+5. Quais consequências essa decisão terá?

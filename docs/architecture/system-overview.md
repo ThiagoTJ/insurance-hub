@@ -1,7 +1,7 @@
 # System Overview
 
 ## Purpose
-Este documento apresenta uma visão de alto nível da arquitetura do InsureHub.
+Este documento apresenta uma visão de alto nível da arquitetura do InsuranceHub.
 
 Seu objetivo é descrever como os principais componentes do sistema interagem entre si, servindo como referência para decisões arquiteturais, desenvolvimento de novas funcionalidades e evolução da plataforma.
 

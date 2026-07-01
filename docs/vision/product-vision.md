@@ -1,7 +1,7 @@
 # Product Vision
 
 ## 1. Overview
-O InsureHub é uma plataforma web para gerenciamento e contratação de seguros digitais.
+O InsuranceHub é uma plataforma web para gerenciamento e contratação de seguros digitais.
 
 O sistema permitirá que clientes realizem simulações, acompanhem propostas, gerenciem contratos e consultem informações de seus seguros por meio de uma experiência moderna, rápida e intuitiva.
 
@@ -10,7 +10,7 @@ Além da visão de negócio, este projeto tem como objetivo servir como referên
 ## 2. Problem Statement
 Atualmente, muitos processos relacionados à contratação e gerenciamento de seguros ainda dependem de fluxos fragmentados, interfaces pouco intuitivas ou atendimento manual.
 
-O InsureHub busca centralizar essas operações em uma única plataforma, oferecendo uma experiência digital consistente tanto para clientes quanto para administradores.
+O InsuranceHub busca centralizar essas operações em uma única plataforma, oferecendo uma experiência digital consistente tanto para clientes quanto para administradores.
 
 Sob a perspectiva técnica, o projeto também busca simular desafios encontrados em aplicações corporativas, permitindo a prática de arquiteturas escaláveis, componentes reutilizáveis e integração entre diferentes camadas do sistema.
 
@@ -92,3 +92,7 @@ Após a conclusão do MVP, o projeto evoluirá para incluir:
 - Deploy em ambiente cloud.
 - Testes E2E.
 - Monitoramento de performance.
+
+## Related Documents
+- Business Domains
+- System Overview

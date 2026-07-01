@@ -7,3 +7,10 @@ Ela responde cinco perguntas:
 3. Qual escolhemos?
 4. Por que escolhemos?
 5. Quais consequências essa decisão terá?
+
+Status á serem utilizados
+
+- Proposed (Proposta)
+- Accepted (Aceita)
+- Deprecated (Descontinuada)
+- Superseded (Substituída)

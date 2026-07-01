@@ -141,3 +141,8 @@ A arquitetura do InsuranceHub seguirá os seguintes princípios:
  - **Scalability:** estrutura preparada para crescimento.
  - **Maintainability:** o código deverá permanecer legível, previsível e de fácil evolução ao longo do tempo.
  - **Separation of Concerns:** Cada camada da aplicação deverá possuir responsabilidades claramente definidas, evitando mistura entre regras de negócios, interface e infraestrutura.
+
+ ## Related Documents
+- Product Vision
+- System Overview
+- ADR-001

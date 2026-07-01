@@ -4,7 +4,7 @@
 Accepted
 
 ## Context
-O InsureHub é um projeto que tem como objetivo simular um ambiente corporativo moderno, aplicando práticas atuais de desenvolvimento frontend.
+O InsuranceHub é um projeto que tem como objetivo simular um ambiente corporativo moderno, aplicando práticas atuais de desenvolvimento frontend.
 
 A stack escolhida deveria atender aos seguintes requisitos:
 
@@ -104,3 +104,7 @@ Esta ADR deverá ser revisada quando:
 - houver adoção de Micro Frontends;
 - mudança na estratégia de gerenciamento de estado;
 - alteração significativa na stack frontend.
+
+## Related Documents
+- System Overview
+- Monorepo Strategy

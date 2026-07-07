@@ -17,7 +17,7 @@
 ## Contributing
 - Git Workflow
 
-## Arquitetura
+## Documentation Flow
 ```
                          Product Vision
                                 │
